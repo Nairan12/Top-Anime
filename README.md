@@ -55,13 +55,17 @@ right-skewed distribution, where most anime have low Popularity Ranks
 The median is around 7.8, indicating that half of the anime have a score higher than this value and the other half lower.
 some ouliers on the top. 
 ![image](https://github.com/user-attachments/assets/15c0bd82-e291-4843-a1ae-06874356940d)
+
 The "TV" category is the largest, with over 1000 entries. This suggests that most anime in the dataset are TV series
 ![image](https://github.com/user-attachments/assets/827fc32e-2b01-4431-935c-4ed7d7b565a3)
+
 Josei has the highest median score, out of all therefore suggesting that anime targeting adult women have overall higher rating overall.
 Anime targeted at children tends to have more consistent scores.
+
 ![image](https://github.com/user-attachments/assets/fb111299-f635-4371-b45e-8dba169ce312)
 Shounen dominates in popularity, with a lower median rank and more highly ranked anime.
 Shounen has the most outliers showing that there are really low popularity shows in this demographic. 
+
 ![image](https://github.com/user-attachments/assets/2bd3e310-4f34-482b-a0f3-3fe6de0bffe2)
 ![image](https://github.com/user-attachments/assets/ceb7598b-e6ca-4e57-a711-739f22f12054)
 TV anime (blue points) tend to have a much larger number of episodes, with one clear outlier reaching around 1750 episodes.
