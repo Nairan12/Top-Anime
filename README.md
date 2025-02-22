@@ -1,4 +1,4 @@
-```markdown
+
 # Anime IMDb Rating Analysis
 
 ## **Project Overview**
@@ -72,5 +72,4 @@ The dataset consists of:
 ![image](https://github.com/user-attachments/assets/2bd3e310-4f34-482b-a0f3-3fe6de0bffe2)
 ![image](https://github.com/user-attachments/assets/ceb7598b-e6ca-4e57-a711-739f22f12054)
 - TV anime (blue points) tend to have a much larger number of episodes, with one clear outlier reaching around 1750 episodes. 
-```
 
