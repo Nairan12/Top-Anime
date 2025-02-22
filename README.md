@@ -43,32 +43,30 @@ The dataset consists of:
 - **Scatterplot of Popularity Rank vs. Number of Episodes**: No clear correlation, but interesting patterns emerge.
 - **Top 10 Studios by Anime Count**: Bar chart showing the most prolific anime studios.
 ![image](https://github.com/user-attachments/assets/b0b45118-c407-4c84-9f9f-08b2df4a2ca4)
-The majority of anime have scores between 7.5 and 8.0.
-Most anime have ratings of 7.5 to 7.7 being the most frequent scores.
-As scores increase, the frequency decreases, and  anime with scores above 8.5 are less common.
-few anime achieve scores close to 9.0, showing that only a small percentage are  high-rated.
+- The majority of anime have scores between 7.5 and 8.0.
+- Most anime have ratings of 7.5 to 7.7 being the most frequent scores.
+- As scores increase, the frequency decreases, and  anime with scores above 8.5 are less common.
+- Few anime achieve scores close to 9.0, showing that only a small percentage are  high-rated.
 
 ![image](https://github.com/user-attachments/assets/ee309c99-728d-437a-8635-1995c5c1c9e3)
-Around 700 animes in the first bar. these are the most popular animes in the dataset. Fewer anime are present in the 2000 to 4000 rank range (around 400 entries), and this trend continues. 
-right-skewed distribution, where most anime have low Popularity Ranks
+- Around 700 animes in the first bar. these are the most popular animes in the dataset.
+- Fewer anime are present in the 2000 to 4000 rank range (around 400 entries), and this trend continues. Right-skewed distribution, where most anime have low Popularity Ranks
 ![image](https://github.com/user-attachments/assets/fdc624ac-5090-42c0-8fc3-e931159f8293)
-The median is around 7.8, indicating that half of the anime have a score higher than this value and the other half lower.
-some ouliers on the top. 
+- The median is around 7.8, indicating that half of the anime have a score higher than this value and the other half lower.
+- some ouliers on the top. 
 ![image](https://github.com/user-attachments/assets/15c0bd82-e291-4843-a1ae-06874356940d)
-
-The "TV" category is the largest, with over 1000 entries. This suggests that most anime in the dataset are TV series
+- The "TV" category is the largest, with over 1000 entries. This suggests that most anime in the dataset are TV series
 ![image](https://github.com/user-attachments/assets/827fc32e-2b01-4431-935c-4ed7d7b565a3)
-
-Josei has the highest median score, out of all therefore suggesting that anime targeting adult women have overall higher rating overall.
-Anime targeted at children tends to have more consistent scores.
+- Josei has the highest median score, out of all therefore suggesting that anime targeting adult women have overall higher rating overall.
+- Anime targeted at children tends to have more consistent scores.
 
 ![image](https://github.com/user-attachments/assets/fb111299-f635-4371-b45e-8dba169ce312)
-Shounen dominates in popularity, with a lower median rank and more highly ranked anime.
-Shounen has the most outliers showing that there are really low popularity shows in this demographic. 
+- Shounen dominates in popularity, with a lower median rank and more highly ranked anime.
+- Shounen has the most outliers showing that there are really low popularity shows in this demographic. 
 
 ![image](https://github.com/user-attachments/assets/2bd3e310-4f34-482b-a0f3-3fe6de0bffe2)
 ![image](https://github.com/user-attachments/assets/ceb7598b-e6ca-4e57-a711-739f22f12054)
-TV anime (blue points) tend to have a much larger number of episodes, with one clear outlier reaching around 1750 episodes.
+- TV anime (blue points) tend to have a much larger number of episodes, with one clear outlier reaching around 1750 episodes.
 
 
 
